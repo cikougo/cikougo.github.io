@@ -1,1 +1,3 @@
-# cikougo.github.io
+# cikougo.dev
+
+Static HTML site.
